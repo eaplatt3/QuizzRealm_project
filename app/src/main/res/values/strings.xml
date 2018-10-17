@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz Realm</string>
+    <string name="logo_text1">Quiz Realm</string>
+    <string name="info_text">Enter Realm</string>
+    <string name="info_text2">↓</string>
+    <string name="desc">Image Button</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="reg">Register</string>
+    <string name="reg_logo_text1">Quiz Realm Registration</string>
+    <string name="email">Email</string>
+    <string name="username_reg">Username</string>
+    <string name="password_reg">Password</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="dob">Birthday 01/01/1900</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="rules"><u>Rules:</u></string>
+    <string name="rule1">- Read Each Question Carefully</string>
+    <string name="rule2">- Answers Submitted Only Once</string>
+    <string name="Message">Good Luck!</string>
+    <string name="accept_quest"><u>Accept Quest</u></string>
+    <string name="rule3">- No Cheating</string>
+    <string name="offer">Do You Accept this Quest?</string>
+    <string name="decline_quest"><u>Decline Quest</u></string>
+    <string name="question1">What Planets in the Solar System Have Rings?</string>
+    <string name="answer1">Saturn</string>
+    <string name="answer2">Mars</string>
+    <string name="answer3">Uranus</string>
+    <string name="answer4">Venus</string>
+    <string name="btn_Submit">Submit</string>
+</resources>
