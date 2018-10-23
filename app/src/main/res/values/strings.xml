@@ -29,4 +29,21 @@
     <string name="answer3">Uranus</string>
     <string name="answer4">Venus</string>
     <string name="btn_Submit">Submit</string>
+    <string name="question2">What is K on the Periodic Table ?</string>
+    <string name="q2answer1">Holmium</string>
+    <string name="q2answer2">Uranium</string>
+    <string name="q2answer3">Potassium</string>
+    <string name="q2answer4">Krypton</string>
+    <string name="question3">Tetrahedron D4 is Used When You Want Low Variation?</string>
+    <string name="q3answer1">True</string>
+    <string name="q3answer2">False</string>
+    <string name="question4">How Old is the Universe?</string>
+    <string name="q4_answer_hint">Enter a Number</string>
+    <string name="question5">A Rogue\'s Critical Stat is What?</string>
+    <string name="q5answer1">Intelligence</string>
+    <string name="q5answer2">Resilience</string>
+    <string name="q5answer3">Dexterity</string>
+    <string name="q5answer4">Faith</string>
+    <string name="results">0</string>
+    <string name="resultStatement">Your Results</string>
 </resources>
